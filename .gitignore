@@ -2,3 +2,4 @@ data/diagnostic.data/
 data/WiredTiger.turtle
 data/WiredTiger.wt
 data/journal/
+node_modules/
